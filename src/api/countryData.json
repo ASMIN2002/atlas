@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 125800000,
+    "interestingFact": "Japan has more than 6,800 islands, with four main ones making up most of its landmass."
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38900000,
+    "interestingFact": "Canada has the longest coastline in the world, stretching over 202,080 km."
+  },
+  {
+    "id": 3,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 216400000,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen."
+  },
+  {
+    "id": 4,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1417000000,
+    "interestingFact": "India has the world's largest democracy and the second-largest population."
+  },
+  {
+    "id": 5,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83200000,
+    "interestingFact": "Germany is known for its autobahns, where some sections have no speed limits."
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 26400000,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the world’s largest coral reef system."
+  },
+  {
+    "id": 7,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 112700000,
+    "interestingFact": "Egypt is home to the Pyramids of Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 8,
+    "name": "France",
+    "capital": "Paris",
+    "population": 68000000,
+    "interestingFact": "France is the most visited country in the world, attracting over 80 million."
+  },
+  {
+    "id": 9,
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "population": 60000000,
+    "interestingFact": "South Africa has three capital cities, each serving different branches of government."
+  }
+]
