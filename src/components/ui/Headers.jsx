@@ -25,6 +25,9 @@ export const Headers = () => {
               <li>
                 <NavLink to="/contact">Contact</NavLink>
               </li>
+              <li>
+                <NavLink to="https://kuldeep2002.netlify.app/">Back</NavLink>
+              </li>
             </ul>
           </nav>
         </div>
