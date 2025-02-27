@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "📍",
+    "title": "Address",
+    "details": "123 Main Street, City, Country"
+  },
+  {
+    "icon": "📧",
+    "title": "Email",
+    "details": "contact@example.com"
+  },
+  {
+    "icon": "📞",
+    "title": "Phone",
+    "details": "+123 456 7890"
+  }
+]
