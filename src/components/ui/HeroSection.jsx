@@ -13,8 +13,7 @@ export const HeroSection = () => {
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Animi a
             iusto libero molestias eum distinctio sint, quisquam ipsam laborum
             autem facere est facilis dolore ducimus corporis labore omnis quod
-            ab!lore1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nisi dicta aliquid neque provident laudantium dolorem, sapiente vel eveniet est. Culpa, consectetur molestiae? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam soluta exercitationem delectus nulla. Voluptatum odio quaerat maxime pariatur itaque iste autem expedita saepe cupiditate error, eum incidunt ipsum illo possimus harum ratione impedit cumque!
-            ab!lore1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nisi dicta aliquid neque provident laudantium dolorem, sapiente vel eveniet est. Culpa, consectetur molestiae? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam soluta exercitationem delectus nulla. Voluptatum odio quaerat maxime pariatur itaque iste autem expedita saepe cupiditate error, eum incidunt ipsum illo possimus harum ratione impedit cumque!
+            ab!lore1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nisi dicta aliquid neque provident laudantium dolorem, sapiente vel eveniet est. Culpa, consectetur molestiae? Lorem ipsum dolor.
           </p>
           <NavLink
             className="btn btn-darken btn-inline bg-white-box expor"
